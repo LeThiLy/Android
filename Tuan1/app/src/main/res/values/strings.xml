@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaiTap1_A</string>
+    <string name="we_will">We will help you to grow your
+        business using<br /> online server</string>
+    <string name="grow">GROW <br /> YOUR BUSSINESS</string>
+    <string name="forget_pass">FORGET <br /> PASSWORD</string>
+    <string name="provide_your_account">Provide your account’s email for which you<br /> want to reset your password</string>
+</resources>
